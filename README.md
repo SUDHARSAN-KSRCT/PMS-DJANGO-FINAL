@@ -1,6 +1,5 @@
 🚀 Project Management System - Now Live on GitHub! 🚀
 
-🔗 Explore the Repo: [GitHub Repository Link]
 
 I’m thrilled to share my fully functional Project Management System, featuring a modern design, advanced features, and seamless integration with MySQL! 💻
 
